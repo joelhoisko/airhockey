@@ -1,0 +1,4 @@
+﻿grant {
+permission java.net.SockketPermission"*:1024-65535","connect,resolve";
+permission java.net.SockketPermission"*:1024-65535","accept";
+};

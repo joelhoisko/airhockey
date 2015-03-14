@@ -1,0 +1,3 @@
+grant codeBase "file:./home/joel/Dropbox/HAJO_PROJEKTI/Airhockey/Harjoitustyö 2/airhockey/Airhockeygame" {
+permission java.security.AllPermissions;
+};
